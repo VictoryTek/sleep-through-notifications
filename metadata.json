@@ -5,6 +5,9 @@
   "shell-version":
     [ "45"
     , "46"
+    , "47"
+    , "48"
+    , "49"
     ],
   "url": "https://gitlab.gnome.org/rhendric/sleep-through-notifications"
 }
