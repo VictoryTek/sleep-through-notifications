@@ -4,9 +4,6 @@ Forked from: https://gitlab.gnome.org/rhendric/sleep-through-notifications
 
 This is an extension for GNOME Shell that will disable the screen-waking behavior of lock screen notifications.
 
-As requested here:
-  - https://gitlab.gnome.org/GNOME/gnome-settings-daemon/-/issues/30
-  - https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/2475
 
 ## License
 
